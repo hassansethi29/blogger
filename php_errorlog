@@ -1,0 +1,10 @@
+23-Jun-2025 11:02:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's a way to heal the Earth. Selling plastic makes money, but it also saves the en' at line 2 in /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php:22
+Stack trace:
+#0 /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php(22): mysqli->query('INSERT INTO blo...')
+#1 {main}
+  thrown in /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php on line 22
+[25-Jun-2025 10:09:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't change until you decide to change it yourself..png')' at line 2 in /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php:22
+Stack trace:
+#0 /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php(22): mysqli->query('INSERT INTO blo...')
+#1 {main}
+  thrown in /home/customer/www/rsoa88.rehanschool.us/public_html/blogger/add.php on line 22
